@@ -193,11 +193,3 @@ If you use this work, please cite:
   year      = {2024},
   institution = {The Assam Royal Global University, Guwahati}
 }
-```
-
----
-
-## Contact
-
-For queries, reach out to the corresponding author:
-**Dr. Deepjyoti Choudhury** — [deepjyotichoudhury05@gmail.com](mailto:deepjyotichoudhury05@gmail.com)
